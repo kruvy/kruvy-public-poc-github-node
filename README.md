@@ -1,2 +1,2 @@
 # kruvy-public-poc-github-node
-Public repository to perform POC on GitHub and NodeJS.
+This is a public repository to perform POC on GitHub and NodeJS.
