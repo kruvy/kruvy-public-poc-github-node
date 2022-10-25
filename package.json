@@ -1,0 +1,26 @@
+{
+  "name": "kruvy-public-poc-github-node",
+  "version": "1.0.0",
+  "description": "NodeJS poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruvy/kruvy-public-poc-github-node.git"
+  },
+  "author": "kruvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kruvy/kruvy-public-poc-github-node/issues"
+  },
+  "homepage": "https://github.com/kruvy/kruvy-public-poc-github-node#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
